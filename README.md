@@ -18,3 +18,6 @@ A: Discord blocks other sites using CORS and only extensions will work, you coul
 Q: Antivirus flags your files?
 
 A: Executables are currently unsigned.
+
+
+thanks to 

@@ -20,4 +20,5 @@ Q: Antivirus flags your files?
 A: Executables are currently unsigned.
 
 
-thanks to 
+thanks to CE1CECL
+for the original >
